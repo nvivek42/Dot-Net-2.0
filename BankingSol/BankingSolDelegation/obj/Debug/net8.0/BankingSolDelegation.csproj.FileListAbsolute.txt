@@ -1,0 +1,14 @@
+D:\dot net\codes\BankingSol\BankingSolDelegation\bin\Debug\net8.0\BankingSolDelegation.exe
+D:\dot net\codes\BankingSol\BankingSolDelegation\bin\Debug\net8.0\BankingSolDelegation.deps.json
+D:\dot net\codes\BankingSol\BankingSolDelegation\bin\Debug\net8.0\BankingSolDelegation.runtimeconfig.json
+D:\dot net\codes\BankingSol\BankingSolDelegation\bin\Debug\net8.0\BankingSolDelegation.dll
+D:\dot net\codes\BankingSol\BankingSolDelegation\bin\Debug\net8.0\BankingSolDelegation.pdb
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.AssemblyInfoInputs.cache
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.AssemblyInfo.cs
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.csproj.CoreCompileInputs.cache
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.dll
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\refint\BankingSolDelegation.dll
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.pdb
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\BankingSolDelegation.genruntimeconfig.cache
+D:\dot net\codes\BankingSol\BankingSolDelegation\obj\Debug\net8.0\ref\BankingSolDelegation.dll
