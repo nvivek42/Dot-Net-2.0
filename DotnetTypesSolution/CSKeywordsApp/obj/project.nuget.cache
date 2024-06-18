@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdqHm7EBicFwNiIGg7M2EaWORbbdWT93NtR9t8w/deJ05LRmXQ9NXDMjZn8LC4tk13bHFAyRMNQIxSNzBZuTdg==",
+  "success": true,
+  "projectFilePath": "D:\\dot net\\TFLdotNET\\Days\\Day4\\DotnetTypesSolution\\CSKeywordsApp\\CSKeywordsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

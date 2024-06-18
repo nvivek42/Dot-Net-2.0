@@ -1,0 +1,15 @@
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.exe
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.deps.json
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.runtimeconfig.json
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.dll
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.pdb
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.AssemblyInfoInputs.cache
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.AssemblyInfo.cs
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.csproj.CoreCompileInputs.cache
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.sourcelink.json
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.dll
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\refint\CSKeywordsApp.dll
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.pdb
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.genruntimeconfig.cache
+D:\dot net\TFLdotNET\Days\Day4\DotnetTypesSolution\CSKeywordsApp\obj\Debug\net7.0\ref\CSKeywordsApp.dll
