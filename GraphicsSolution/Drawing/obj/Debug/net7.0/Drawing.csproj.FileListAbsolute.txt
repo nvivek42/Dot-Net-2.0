@@ -1,0 +1,24 @@
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\bin\Debug\net7.0\Drawing.deps.json
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\bin\Debug\net7.0\Drawing.dll
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\bin\Debug\net7.0\Drawing.pdb
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.sourcelink.json
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.dll
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.pdb
+D:\dot net\New folder\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\ref\Drawing.dll
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\bin\Debug\net7.0\Drawing.deps.json
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\bin\Debug\net7.0\Drawing.dll
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\bin\Debug\net7.0\Drawing.pdb
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.sourcelink.json
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.dll
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\Drawing.pdb
+D:\dot net\TFLdotNET\Days\Day3\GraphicsSolution\Drawing\obj\Debug\net7.0\ref\Drawing.dll

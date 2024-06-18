@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "puuVpQ2sk62ZV8nLPZeU/Y+5pacbYpEjhoLHAEO9h8Esu8Mn2Sel56tBlVMki4e753FOm2BnmF0bP1pVde96pg==",
+  "success": true,
+  "projectFilePath": "D:\\dot net\\TFLdotNET\\Days\\Day3\\GraphicsSolution\\OrderProcessing\\OrderProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

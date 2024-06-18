@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "71yCg4X96V9OLtJdEPJcK8cOz5yWLYcvZV1MbZep+F+2aR42pwRrel55u4IskZCQbOI29St0+D2kzSG24/nkvA==",
+  "success": true,
+  "projectFilePath": "D:\\dot net\\TFLdotNET\\Days\\Day3\\GraphicsSolution\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
