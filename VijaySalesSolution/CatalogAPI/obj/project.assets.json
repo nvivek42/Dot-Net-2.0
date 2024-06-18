@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AuthLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AuthLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthLib/1.0.0": {
+      "type": "project",
+      "path": "../AuthLib/AuthLib.csproj",
+      "msbuildProject": "../AuthLib/AuthLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AuthLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\dot net\\TFLdotNET\\Days\\Day3\\VijaySalesSolution\\CatalogAPI\\CatalogAPI.csproj",
+      "projectName": "CatalogAPI",
+      "projectPath": "D:\\dot net\\TFLdotNET\\Days\\Day3\\VijaySalesSolution\\CatalogAPI\\CatalogAPI.csproj",
+      "packagesPath": "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\",
+      "outputPath": "D:\\dot net\\TFLdotNET\\Days\\Day3\\VijaySalesSolution\\CatalogAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sidheshwar Narole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\dot net\\TFLdotNET\\Days\\Day3\\VijaySalesSolution\\AuthLib\\AuthLib.csproj": {
+              "projectPath": "D:\\dot net\\TFLdotNET\\Days\\Day3\\VijaySalesSolution\\AuthLib\\AuthLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

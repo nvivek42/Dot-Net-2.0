@@ -1,0 +1,15 @@
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\bin\Debug\net8.0\StoreApp.exe
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\bin\Debug\net8.0\StoreApp.deps.json
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\bin\Debug\net8.0\StoreApp.runtimeconfig.json
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\bin\Debug\net8.0\StoreApp.dll
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\bin\Debug\net8.0\StoreApp.pdb
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfoInputs.cache
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfo.cs
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.csproj.CoreCompileInputs.cache
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.dll
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\refint\StoreApp.dll
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.pdb
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\StoreApp.genruntimeconfig.cache
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll

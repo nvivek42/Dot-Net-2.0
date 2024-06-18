@@ -1,0 +1,12 @@
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\bin\Debug\net8.0\AuthLib.deps.json
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\bin\Debug\net8.0\AuthLib.dll
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\bin\Debug\net8.0\AuthLib.pdb
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.AssemblyInfoInputs.cache
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.AssemblyInfo.cs
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.csproj.CoreCompileInputs.cache
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.sourcelink.json
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.dll
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\refint\AuthLib.dll
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\AuthLib.pdb
+D:\dot net\TFLdotNET\Days\Day3\VijaySalesSolution\AuthLib\obj\Debug\net8.0\ref\AuthLib.dll
